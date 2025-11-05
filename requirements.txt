@@ -1,0 +1,26 @@
+# Core framework
+streamlit>=1.30.0
+
+# Data and processing
+pandas
+numpy
+
+# JSON and configuration
+python-dotenv
+requests
+
+# AI and logic engine
+openai
+tqdm
+
+# File and path management
+pathlib
+os-sys
+
+# Optional UI enhancements
+Pillow
+altair
+plotly
+
+# Local development (optional)
+pyngrok
